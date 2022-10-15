@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_1/1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_1/1.1.kt" afterDir="false" />
-    </list>
+    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin._1_2Kt">
     <configuration name="_1_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_1._1_1Kt" />
       <module name="kotlin-examples" />
@@ -44,8 +42,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_1_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1._1_2Kt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1_2Kt" />
         <item itemvalue="Kotlin._1_1Kt" />
       </list>
     </recent_temporary>
@@ -73,12 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1665833613578</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[feat::] Add 1/1 Hello World">
+      <created>1665833955567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665833955567</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat::] Add 'HelloWorld'" />
     <MESSAGE value="[feat::] Add 2/1 example" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 2/1 example" />
+    <MESSAGE value="[feat::] Add 1/1 Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/1 Hello World" />
   </component>
 </project>
