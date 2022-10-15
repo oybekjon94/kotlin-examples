@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="" />
+    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_1/1.3.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin._1_2Kt">
+  <component name="RunManager" selected="Kotlin._1_3Kt">
     <configuration name="_1_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_1._1_1Kt" />
       <module name="kotlin-examples" />
@@ -49,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_1_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1._1_3Kt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1_3Kt" />
         <item itemvalue="Kotlin._1_2Kt" />
         <item itemvalue="Kotlin._1_1Kt" />
       </list>
@@ -86,13 +96,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665833955567</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[feat::] Add 1/2 var&amp;val">
+      <created>1665834167415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665834167415</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[feat::] Add 1/2 var&amp;val">
+      <created>1665834242045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665834242045</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat::] Add 'HelloWorld'" />
     <MESSAGE value="[feat::] Add 2/1 example" />
     <MESSAGE value="[feat::] Add 1/1 Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/1 Hello World" />
+    <MESSAGE value="[feat::] Add 1/2 var&amp;val" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/2 var&amp;val" />
   </component>
 </project>
