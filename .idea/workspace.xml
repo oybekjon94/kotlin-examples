@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_1/1.10.2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_1/1.10.3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._1_10_2Kt">
+  <component name="RunManager" selected="Kotlin._1_10_3Kt">
     <configuration name="_1_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_1._1_10Kt" />
       <module name="kotlin-examples" />
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_1._1_6Kt" />
+    <configuration name="_1_10_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1._1_10_3Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1_10_3Kt" />
         <item itemvalue="Kotlin._1_10_2Kt" />
         <item itemvalue="Kotlin._1_10Kt" />
         <item itemvalue="Kotlin._1_9Kt" />
         <item itemvalue="Kotlin._1_7Kt" />
-        <item itemvalue="Kotlin._1_6Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665845848229</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="[feat::] Add 1/10/2 looping &amp; Ranges">
+      <created>1665846037727</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665846037727</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +206,7 @@
     <MESSAGE value="[feat::] Add 1/8 Booleans" />
     <MESSAGE value="[feat::] Add 1/9 while" />
     <MESSAGE value="[feat::] Add 1/10 looping &amp; Ranges" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/10 looping &amp; Ranges" />
+    <MESSAGE value="[feat::] Add 1/10/2 looping &amp; Ranges" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/10/2 looping &amp; Ranges" />
   </component>
 </project>
