@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="" />
+    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_1/1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_1/1.1.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="_1_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1._1_1Kt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._1_1Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,6 +59,26 @@
       <option name="presentableId" value="Default" />
       <updated>1665833084517</updated>
     </task>
+    <task id="LOCAL-00001" summary="[feat::] Add 'HelloWorld'">
+      <created>1665833525148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665833525148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[feat::] Add 2/1 example">
+      <created>1665833613578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665833613578</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[feat::] Add 'HelloWorld'" />
+    <MESSAGE value="[feat::] Add 2/1 example" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 2/1 example" />
   </component>
 </project>
