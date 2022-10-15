@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_1/1.7.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_1/1.8.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665843872090</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[feat::] Add 1/7 Number Types">
+      <created>1665844422022</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665844422022</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +173,7 @@
     <MESSAGE value="[feat::] Add 1/4 functions" />
     <MESSAGE value="[feat::] Add 1/5 if Expressions" />
     <MESSAGE value="[feat::] Add 1/6 String Templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/6 String Templates" />
+    <MESSAGE value="[feat::] Add 1/7 Number Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/7 Number Types" />
   </component>
 </project>
