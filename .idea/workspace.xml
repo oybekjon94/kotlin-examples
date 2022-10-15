@@ -37,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._1_10_3Kt">
+  <component name="RunManager" selected="Kotlin._1_12Kt">
     <configuration name="_1_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_1._1_10Kt" />
       <module name="kotlin-examples" />
@@ -45,15 +45,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1_10_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_1._1_10_2Kt" />
+    <configuration name="_1_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1._1_11Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1_10_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_1._1_10_3Kt" />
+    <configuration name="_1_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1._1_12Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._1_10_3Kt" />
-        <item itemvalue="Kotlin._1_10_2Kt" />
+        <item itemvalue="Kotlin._1_12Kt" />
+        <item itemvalue="Kotlin._1_11Kt" />
         <item itemvalue="Kotlin._1_10Kt" />
         <item itemvalue="Kotlin._1_9Kt" />
         <item itemvalue="Kotlin._1_7Kt" />
