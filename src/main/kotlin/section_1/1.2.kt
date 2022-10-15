@@ -1,5 +1,5 @@
 package section_1
-fun main(){
+fun main(){ //var&val
     var whole = 12
     var fractional = 2.4
     var words = "oybek"
