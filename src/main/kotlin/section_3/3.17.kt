@@ -13,3 +13,11 @@ fun main(){
         }
     }
 }
+/*output
+outer loop :10
+inner loop :1
+inner loop :2
+inner loop :3
+inner loop :4
+inner loop :5
+ */
