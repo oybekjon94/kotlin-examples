@@ -1,3 +1,5 @@
+package section_3
+// label
 fun main(){
     val num:Array<Int> = arrayOf(10,20,30)
     outer@for (element: Int in num){
@@ -7,7 +9,7 @@ fun main(){
             println("inner loop :" +i)
 
             if (i == 5)
-                continue@inter
+                break@outer
         }
     }
 }

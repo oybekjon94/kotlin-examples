@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section_3/3.16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_3/3.16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_3/3.17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice/practices.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice/practices.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._3_16Kt">
+  <component name="RunManager" selected="Kotlin._3_17Kt">
     <configuration name="PracticesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticesKt" />
-      <module name="kotlin-examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_1_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_1._1_11Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3_17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_3._3_17Kt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._3_16Kt" />
+        <item itemvalue="Kotlin._3_17Kt" />
         <item itemvalue="Kotlin.PracticesKt" />
+        <item itemvalue="Kotlin._3_16Kt" />
         <item itemvalue="Kotlin._3_12Kt" />
         <item itemvalue="Kotlin._1_12Kt" />
-        <item itemvalue="Kotlin._1_11Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665890182839</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[feat::] Add 3/16 continue">
+      <created>1665890277638</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665890277638</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
