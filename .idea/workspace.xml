@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_3/3.17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomictest/atomictest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_1/1.13.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/practice/practices.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practice/practices.kt" afterDir="false" />
     </list>
@@ -23,7 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/kotlin/practice/practices.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/practice/practices.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +42,21 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._3_17Kt">
+  <component name="RunManager" selected="Kotlin._1_13Kt">
+    <configuration name="AtomictestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtomictestKt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticesKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.PracticesKt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PracticesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticesKt" />
       <module name="kotlin-examples" />
@@ -49,22 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_1._1_12Kt" />
-      <module name="kotlin-examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_3_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_3._3_12Kt" />
-      <module name="kotlin-examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_3_16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_3._3_16Kt" />
+    <configuration name="_1_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1._1_13Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._3_17Kt" />
+        <item itemvalue="Kotlin._1_13Kt" />
+        <item itemvalue="Kotlin.AtomictestKt" />
         <item itemvalue="Kotlin.PracticesKt" />
-        <item itemvalue="Kotlin._3_16Kt" />
-        <item itemvalue="Kotlin._3_12Kt" />
-        <item itemvalue="Kotlin._1_12Kt" />
+        <item itemvalue="Kotlin.PracticesKt (1)" />
+        <item itemvalue="Kotlin._3_17Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -236,8 +237,33 @@
       <option name="project" value="LOCAL" />
       <updated>1665890277638</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="[feat::] Add 3/17 label">
+      <created>1665894116651</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665894116651</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[feat::] Add 3/17 label">
+      <created>1665894197634</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665894197634</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat::] Add 'HelloWorld'" />
@@ -258,6 +284,7 @@
     <MESSAGE value="[feat::] Add 3/12 Generics" />
     <MESSAGE value="[feat::] Add 3/15 break" />
     <MESSAGE value="[feat::] Add 3/16 continue" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 3/16 continue" />
+    <MESSAGE value="[feat::] Add 3/17 label" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 3/17 label" />
   </component>
 </project>
