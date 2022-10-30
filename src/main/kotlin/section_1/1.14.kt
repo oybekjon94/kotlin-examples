@@ -1,11 +1,21 @@
 package section_1
 
-fun isDigit(ch: Char) = ch in '0'..'9'
-
-fun notDigit(ch: Char) =
-    ch !in '0'..'9'
+// ExpressionsStatements
 fun main(){
-    println(isDigit('a'))
-    println(isDigit('5'))
-    println(notDigit('z'))
+    val result1 = if(11>42) 9 else 5
+
+    val result2 = if (1<2) {
+        val a = 11
+        a + 42
+    }else 42
+
+    val result3 =
+        if ('x' < 'y')
+            println("x > y")
+    else
+        println("x > y")
+
+    println(result1)
+    println(result2)
+    println(result3)
 }
