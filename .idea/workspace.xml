@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="[feat::] Add 2/1 Objects">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_2/2.2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_2/3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +39,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._2_2Kt">
+  <component name="RunManager" selected="Kotlin._3Kt">
     <configuration name="AtomictestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AtomictestKt" />
-      <module name="kotlin-examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticesKt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_2._3Kt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2_2Kt" />
         <item itemvalue="Kotlin._1_14Kt" />
         <item itemvalue="Kotlin._1_13Kt" />
         <item itemvalue="Kotlin.AtomictestKt" />
-        <item itemvalue="Kotlin.PracticesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667128421700</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="[feat::] Add 2/2 classes">
+      <created>1668389012663</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1668389012663</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,6 +321,7 @@
     <MESSAGE value="[feat::] Add 1/14 in" />
     <MESSAGE value="[feat::] Add 1/14 Statement/Expression" />
     <MESSAGE value="[feat::] Add 2/1 Objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 2/1 Objects" />
+    <MESSAGE value="[feat::] Add 2/2 classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 2/2 classes" />
   </component>
 </project>
