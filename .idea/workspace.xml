@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice4/9.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -363,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681627203658</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="[feat::] Add practice">
+      <created>1681632355825</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1681632355825</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
