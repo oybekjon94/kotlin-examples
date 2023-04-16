@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/15.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice/9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice2/9.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,35 +58,35 @@
 }</component>
   <component name="RunManager" selected="Kotlin._15Kt">
     <configuration name="_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomicPractice._11Kt" />
+      <option name="MAIN_CLASS_NAME" value="atomicPractice2._11Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomicPractice._12Kt" />
+      <option name="MAIN_CLASS_NAME" value="atomicPractice2._12Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomicPractice._13Kt" />
+      <option name="MAIN_CLASS_NAME" value="atomicPractice2._13Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomicPractice._14Kt" />
+      <option name="MAIN_CLASS_NAME" value="atomicPractice2._14Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomicPractice._15Kt" />
+      <option name="MAIN_CLASS_NAME" value="atomicPractice2._15Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -342,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681549220644</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="[feat::] Add practice">
+      <created>1681615305585</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1681615305585</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
