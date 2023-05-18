@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice7/3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice7/4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._3Kt">
+  <component name="RunManager" selected="Kotlin._4Kt">
     <configuration name="_10Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_10Kt" />
       <module name="kotlin-examples" />
@@ -72,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomicPractice6._9Kt" />
+    <configuration name="_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomicPractice7._4Kt" />
       <module name="kotlin-examples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt" />
         <item itemvalue="Kotlin._10Kt (1)" />
-        <item itemvalue="Kotlin._9Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684397091291</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="[feat::] Add practice">
+      <created>1684398517393</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1684398517393</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
