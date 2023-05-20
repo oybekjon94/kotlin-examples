@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9931413-dbf2-415a-b6d6-677bd792f437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice7/4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice7/5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomicPractice7/6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._4Kt">
-    <configuration name="_10Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10Kt" />
-      <module name="kotlin-examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomicPractice7._1Kt" />
-      <module name="kotlin-examples" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._6Kt">
     <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atomicPractice7._2Kt" />
       <module name="kotlin-examples" />
@@ -78,13 +66,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomicPractice7._5Kt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomicPractice7._6Kt" />
+      <module name="kotlin-examples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._6Kt" />
+        <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._1Kt" />
-        <item itemvalue="Kotlin._10Kt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -96,13 +98,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665833084517</updated>
-    </task>
-    <task id="LOCAL-00001" summary="[feat::] Add 'HelloWorld'">
-      <created>1665833525148</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1665833525148</updated>
     </task>
     <task id="LOCAL-00002" summary="[feat::] Add 2/1 example">
       <created>1665833613578</created>
@@ -440,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684398517393</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="[feat::] Add practice">
+      <created>1684398938212</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1684398938213</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
